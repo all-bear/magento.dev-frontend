@@ -1,0 +1,11 @@
+{
+  "magento": {
+    "url": "http://magento2.web",
+    "folder": "/Users/all-bear/Sites/magento2/web/",
+    "debugTemplateSelector": ".debugging-hints",
+    "debugTemplateFileSelector": ">.debugging-hint-template-file"
+  },
+  "parse": {
+    "pages": ["","contact"]
+  }
+}
